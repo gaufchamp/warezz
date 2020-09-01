@@ -60,3 +60,8 @@ sidebar_label: Sports
 - [720pStream](http://www.720pstream.me/) - Popular sports only, simple design.
 - [Your Sports](http://yoursports.stream/live?v=ufc) - UFC, Football & other streams.
 - [Crackstreams](http://crackstreams.com/) - XFL, MMA, Boxing, NBA & more.
+- [WatchWrestlings](https://watchwrestlings.in/) - Replays for MMA, WWE.
+- [WatchWrestlingNetwork](https://watchwrestlingnetwork.com/) - Replays for MMA, WWE.
+- [Watch AllWrestling](https://watchallwrestling.com/) - Replays for MMA, WWE.
+- [WatchWrestling](https://wrestlinglive.in/) - Replays for MMA, WWE.
+- [WatchWrestling](https://wrestlingOnline.in/) - Replays for MMA, WWE.
